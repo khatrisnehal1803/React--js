@@ -60,3 +60,27 @@ flowchart format (text)
    |
    v
 [End / Repeat interactions]
+
+
+
+Description
+
+This project is a Calculator App built with React and Redux.
+
+It allows users to perform basic operations like addition, subtraction, multiplication, and division.
+
+Every calculation is saved into history using Redux state.
+
+The history supports CRUD operations:
+
+Create → Add new calculation
+
+Read → View all past results
+
+Update → Edit previous calculations
+
+Delete → Remove unwanted entries
+
+The UI is designed with a colorful calculator box and a history box to keep track of all operations.
+
+This makes it both a functional calculator and a practice project for Redux state management with CRUD features.
